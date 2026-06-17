@@ -11,7 +11,7 @@ export default function Leadership() {
     },
     {
       name: "Ashutosh Pathak",
-      image: "/ashu1.jpeg", // यहाँ 'Image' को small 'image' कर दिया है
+      image: "", // यहाँ 'Image' को small 'image' कर दिया है
       role: "Director",
       phone: "+91 62698 31886",
       description:
